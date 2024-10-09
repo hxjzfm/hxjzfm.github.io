@@ -13,7 +13,7 @@
  {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"./js/api/drpy2.min.js","ext":"./js/4K电影网.js"},
  {"key":"drpy_js_美剧网","name":"影视 | 美剧网[js]","type":3,"api":"./js/api/drpy2.min.js","ext":"./js/美剧网.js"},
 {"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"csp_XBPQ","ext":
-{'分类url': 'https://www.iyxdm.one/category.html?channel=17&zhonglei={cateId}&year={year}&area={area}','分类': 'TV$TV#剧场版$剧场版#OVA$OVA#其他$其他' }},
+{'分类url': 'https://www.iyxdm.one/category.html?channel=17&zhonglei={cateId}','分类': 'TV$TV#剧场版$剧场版#OVA$OVA#其他$其他' }},
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"./js/api/drpy2.min.js","ext":"./js/AnFuns.js"}
 ],
 
