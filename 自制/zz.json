@@ -8,68 +8,7 @@
 
 
 "sites":[
-{
-"author":"8.2",
-"name":"怡萱动漫",
-"url":"https://www.iyxdm.one/resource",
-"tihuan":"cnzz.com",
-"User":"空",
-"fenlei":"TV$TV#剧场版$剧场版#OVA$OVA#其他$其他",
-"houzhui":".html",
 
-"shifouercijiequ":"0", 
-"jiequqian":"空", 
-"jiequhou":"空", 
-"jiequshuzuqian":"class=\"dhnew search-cnt adj\"", 
-"jiequshuzuhou":"", 
-"tupianqian":"referrerpolicy=\"no-referrer\" src=\"", 
-"tupianhou":"\"", 
-"biaotiqian":"title=\"", 
-"biaotihou":"\"", 
-"lianjieqian":"href=\"", 
-"lianjiehou":"\"", 
-"fubiaotiqian": "class=\"pic-text text-right\">",
-"fubiaotihou": "</span>",
-
-
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/index.php/vod/detail/id/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"ol-content zxdis\"",
-"bfjiequshuzuhou": "</ul>", 
-"bflianjieqian": "href=\"", 
-"bflianjiehou": "\"",
-"bfbiaotiqian": "span>", 
-"bfbiaotihou": "</span" ,
-
-"zhuangtaiqian": "更新：</span>",
-"zhuangtaihou": "</p>", 
-"daoyanqian": "导演：</span>", 
-"daoyanhou": "</p>", 
-"zhuyanqian": "主演：</span>", 
-"zhuyanhou": "</p>", 
-"juqingqian": "简介：</span>", 
-"juqinghou": "</div>"
-},
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
