@@ -2,10 +2,10 @@
 "author":"8.2",
 "name":"ßÙßä¶¯Âþ",
 "url":"http://www.bimiacg4.net",
-"tihuan":"cnzz.com",
+"tihuan":"",
 "User":"¿Õ",
 "fenlei":"·¬×é$/type/fanzu/#¾ç³¡$/type/juchang/#µçÊÓ¾ç$/type/dianshiju/#µçÓ°$/type/move/",
-"houzhui":".html",
+"houzhui":"",
 
 "shifouercijiequ":"0", 
 "jiequqian":"¿Õ", 
@@ -18,13 +18,13 @@
 "biaotihou":"\"", 
 "lianjieqian":"<a href=\"", 
 "lianjiehou":"\"", 
-"fubiaotiqian": "class=\"f1\">",
-"fubiaotihou": "</span>",
+"fubiaotiqian": "",
+"fubiaotihou": "",
 
 
-  "sousuoqian": "/category.html?channel=17",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
-  "sousuohouzhui": "",
+  "sousuohouzhui": "type",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -51,12 +51,12 @@
 "bfbiaotiqian": ">", 
 "bfbiaotihou": "</a" ,
 
-"zhuangtaiqian": "¸üÐÂ£º</span>",
-"zhuangtaihou": "</p>", 
-"daoyanqian": "µ¼ÑÝ£º</span>", 
-"daoyanhou": "</p>", 
-"zhuyanqian": "Ö÷ÑÝ£º</span>", 
-"zhuyanhou": "</p>", 
-"juqingqian": "¼ò½é£º</span>", 
-"juqinghou": "</div>"
+"zhuangtaiqian": "¿Õ",
+"zhuangtaihou": "¿Õ", 
+"daoyanqian": "¿Õ", 
+"daoyanhou": "¿Õ", 
+"zhuyanqian": "¿Õ", 
+"zhuyanhou": "¿Õ", 
+"juqingqian": "¿Õ", 
+"juqinghou": "¿Õ"
 }
