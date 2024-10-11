@@ -8,6 +8,7 @@
 
 
 "sites":[
+{"key": "哔咪动漫","name": "哔咪动漫","type": 3,"api": "csp_xbiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://hxjzfm.github.io/自制/bimi"},
 {"key": "怡萱动漫","name": "怡萱动漫","type": 3,"api": "csp_xbiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://hxjzfm.github.io/自制/yixuan"},
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
